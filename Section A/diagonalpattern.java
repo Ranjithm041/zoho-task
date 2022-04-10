@@ -1,4 +1,9 @@
-public class Sample {
+import java.io.*;
+import java.util.Scanner;
+
+// Question no : 1
+
+public class diagonalpattern {
 
     static void isPalindrome(String str) {
         int i = 0, j = str.length() - 1;
